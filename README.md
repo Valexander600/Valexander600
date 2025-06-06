@@ -1,6 +1,7 @@
 
 
-<img src="banner.png" alt="Banner" style="width:100%;" />
+<img src="banner.png" alt="Banner" style="width:100%;" img src="banner.png" alt="Banner" style="width:100%;" />
+/>
 
 
 # Hi, I'm Victoria 👋
