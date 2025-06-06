@@ -1,11 +1,13 @@
 ![Image](https://github.com/user-attachments/assets/b1ea01c9-7c2f-4ef7-8699-3c72bfbf87c3)
+<img src="banner.png" alt="Banner" style="width:100%;" />
+
 # Hi, I'm Victoria 👋
 
 I'm a data analyst and aspiring machine learning practitioner passionate about transforming messy data into meaningful insights.
 
 🔍 Exploring the intersection of mental health, tech, and workforce trends
 
-🧠 Currently learning advanced Python for ML projects
+🧠 Currently diving deeper into Python, SQL, and Streamlit for machine learning projects
 
 📊 Skilled in: Python, Pandas, Excel, SQL, Seaborn, Matplotlib
 
