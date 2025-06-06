@@ -1,6 +1,7 @@
 
+
 <img src="banner.png" alt="Banner" style="width:100%;" />
-![banner](https://github.com/user-attachments/assets/2dba14df-dbf9-4632-847c-3863622e96f1)
+
 
 # Hi, I'm Victoria 👋
 
