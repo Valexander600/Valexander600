@@ -1,5 +1,4 @@
 ![Image](https://github.com/user-attachments/assets/b1ea01c9-7c2f-4ef7-8699-3c72bfbf87c3)
-<img src="banner.png" alt="Banner" style="width:100%;" />
 
 # Hi, I'm Victoria 👋
 
