@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Banner" style="width:100%;" assets/a92ece77-c52e-4dbb-9258-1824bd812bae />
+<img src="banner.png" alt="Banner" style="width:100%;" />
 
 # Hi, I'm Victoria 👋
 
