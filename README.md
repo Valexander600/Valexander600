@@ -14,7 +14,7 @@ I'm a data analyst and aspiring machine learning practitioner passionate about t
 
 💼 Open to opportunities in data analysis or ML-focused roles
 
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/victoria-a-659b4b164/) 
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/victoria-ml-analyst/)
 
 
 <!---
