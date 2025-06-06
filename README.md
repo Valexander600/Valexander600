@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/41d8cf0f-159d-48d5-90f0-165136b7e256)
 # Hi, I'm Victoria 👋
 
 I'm a data analyst and aspiring machine learning practitioner passionate about turning messy data into meaningful insights.
