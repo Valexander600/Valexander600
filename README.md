@@ -1,4 +1,6 @@
-![Image](https://github.com/user-attachments/assets/b1ea01c9-7c2f-4ef7-8699-3c72bfbf87c3)
+
+<img src="banner.png" alt="Banner" style="width:100%;" />
+![banner](https://github.com/user-attachments/assets/2dba14df-dbf9-4632-847c-3863622e96f1)
 
 # Hi, I'm Victoria 👋
 
