@@ -8,7 +8,7 @@ I'm a data analyst and aspiring machine learning practitioner passionate about t
 - 📌 Projects below highlight my ability to clean, analyze, and visualize real-world data
 - 💼 Open to opportunities in data analysis or ML-focused roles
 
-📫 Let's connect: [LinkedIn](https://linkedin.com/in/YOUR-USERNAME) 
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/victoria-a-659b4b164/) 
 
 
 <!---
