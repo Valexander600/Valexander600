@@ -16,7 +16,7 @@ Check out my interactive portfolio:
 - Git & GitHub
 
 📫 **Connect with me**  
-📫 valexander600@gmail.com
+- 📧 valexander600@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/victoria-ml-analyst/)
 - 🌐 [Portfolio Website](https://valexander600.github.io/victoria-ml-analyst.github.io/)
 
