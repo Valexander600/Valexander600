@@ -25,6 +25,8 @@ Check out my interactive portfolio:
 - 🧘‍♀️ [Mental Health in Tech](https://github.com/Valexander600/mental-health-tech-analysis)
 - 📈 [Excel Sales Dashboard](https://github.com/Valexander600/excel-sales-dashboard)
 
-Let’s use data to drive change. 🚀
+🚀 I'm always open to new opportunities and collaborations.  
+Let’s connect and build something impactful together!
+
 ---
 🌟 *Always learning, always growing.*
