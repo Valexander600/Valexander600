@@ -1,23 +1,23 @@
 <img src="banner.png" alt="Banner" style="width:100%;" />
 
-# Hi, I'm Victoria 👋
+# 👋 Hi, I'm Victoria Alexander
 
-I'm a data analyst and aspiring machine learning practitioner passionate about transforming messy data into meaningful insights.
+🎯 **Data Analyst** passionate about exploring data, solving problems, and telling visual stories.  
+🔍 I specialize in **Python, Excel, Machine Learning, and Data Visualization**.
 
-🔍 Exploring the intersection of mental health, tech, and workforce trends
+🌐 **My Portfolio**  
+Check out my interactive portfolio:  
+🔗 [valexander600.github.io/victoria-ml-analyst.github.io](https://valexander600.github.io/victoria-ml-analyst.github.io)
 
-🧠 Currently diving deeper into Python, SQL, and Streamlit for machine learning projects
+🛠️ **Tools I Use**
+- Python (Pandas, Matplotlib, Scikit-learn)
+- Excel (Pivot Tables, Formulas, Dashboards)
+- SQL & Data Cleaning
+- Git & GitHub
 
-📊 Skilled in: Python, Pandas, Excel, SQL, Seaborn, Matplotlib
+📫 **Connect with me**  
+- ✉️ valexander600@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/victoria-ml-analyst/)
 
-📌 Projects below highlight my ability to clean, analyze, and visualize real-world data
-
-💼 Open to opportunities in data analysis or ML-focused roles
-
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/victoria-ml-analyst/)
-
-
-<!---
-Valexander600/Valexander600 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+🌟 *Always learning, always growing.*
