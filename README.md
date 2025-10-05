@@ -1,7 +1,5 @@
 <img src="banner.png" alt="Banner" style="width:100%;" />
 
-![Header](https://github.com/Valexander600/victoria-ml-analyst.github.io/blob/main/assets/victoria-header.png)
-
 # 👋 Hi, I'm Victoria Alexander  
 🎯 **Data Analyst | Machine Learning Enthusiast | Visual Storyteller**
 
